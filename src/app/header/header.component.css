@@ -1,0 +1,11 @@
+#navbar{
+    height: 50px;
+    background-color: yellow;
+}
+.navbar {
+    margin-bottom: 50px;
+    border-radius: 0;
+  }
+.glyphicon{
+    padding: 4px;
+}

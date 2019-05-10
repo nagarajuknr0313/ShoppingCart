@@ -1,0 +1,8 @@
+div{
+    width: 100%;
+    text-align: center;
+    background-color: gray;
+    
+    position: absolute;;
+    bottom: 0px;
+}
